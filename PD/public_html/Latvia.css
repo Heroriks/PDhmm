@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 9, 2020, 9:03:32 AM
+    Author     : epoikans2
+*/
+body {
+background-color: #FDBFBF
+}
+.FontWiki{
+    font-size:28px
+}
+.FontTitle{
+    font-size:30px
+}
+.Bold{
+     font-weight: bold;
+}
